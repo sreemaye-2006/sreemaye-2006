@@ -49,6 +49,18 @@ A full-stack blogging platform with authentication, article management, and dash
 🔗 **Backend:** https://blog-2-p13k.onrender.com  
 
 ---
+### 🤖 AI Curriculum Generator
+
+Developed an AI-powered curriculum generation platform using **Groq API** and **MERN Stack** to create customized learning roadmaps based on user-provided content and tech stack.
+
+**Features:**
+- Generate structured curriculum from input topics
+- Personalized learning roadmap creation
+- Tech stack-based recommendations
+- AI-powered content organization
+
+**Tech Stack:** MERN Stack, Groq API
+
 
 ## 📊 GitHub Stats
 
@@ -66,10 +78,10 @@ A full-stack blogging platform with authentication, article management, and dash
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/k-sreemaye-819472362">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="sirisreemaye#gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
