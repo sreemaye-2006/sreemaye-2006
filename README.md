@@ -43,67 +43,87 @@
 
 ## 📌 Featured Projects
 
+<div align="center">
+
 <table>
 <tr>
-<td width="33%">
+<td width="100%">
 
-### 📝 Blog Application
+<div style="padding:20px; border-radius:12px; border:1px solid #30363d; margin-bottom:20px;">
 
-A full-stack blogging platform with authentication, article management, and dashboard features.
+## 📝 Blog Application
 
-#### Features
-- User Authentication
-- Create/Edit/Delete Articles
-- Protected Routes
-- Comment System
-- Admin Dashboard
-- JWT Authentication
+**Full-stack blogging platform with authentication, article management, and dashboard features.**
 
-**Tech Stack:** React, Node.js, Express.js, MongoDB
+### ✨ Key Features
+- 🔐 **User Authentication & Authorization**
+- 📝 **Create, Edit & Delete Articles**
+- 💬 **Comment System**
+- 📊 **Admin Dashboard**
+- 🛡️ **Protected Routes & JWT Authentication**
+
+### 🛠️ Tech Stack
+`React` `Node.js` `Express.js` `MongoDB`
 
 🔗 **Frontend:** https://blog-git-main-sirisreemaye-9168s-projects.vercel.app  
 🔗 **Backend:** https://blog-2-p13k.onrender.com  
 
-</td>
-
-<td width="33%">
-
-### 🤖 AI Curriculum Generator
-
-AI-powered curriculum generator using **Groq API** and **MERN Stack**.
-
-#### Features
-- Curriculum Generation
-- Personalized Learning Paths
-- Topic-wise Roadmaps
-- Skill Tracking
-- Tech Stack Recommendations
-- Dynamic Content Rendering
-
-**Tech Stack:** MERN Stack, Groq API
+</div>
 
 </td>
+</tr>
 
-<td width="33%">
+<tr>
+<td width="100%">
 
-### 📄 AI Resume Analyzer
+<div style="padding:20px; border-radius:12px; border:1px solid #30363d; margin-bottom:20px;">
 
-An AI-powered resume analysis platform that evaluates resumes for ATS compatibility.
+## 🤖 AI Curriculum Generator
 
-#### Features
-- ATS Score Generation
-- ATS Ranking
-- Resume Analysis
-- Skill Gap Detection
-- Resume Improvement Suggestions
-- Personalized Study Plan
-- Resume Optimization Tips
+**AI-powered platform that generates personalized learning roadmaps using Groq API.**
 
-**Tech Stack:** MERN Stack, Groq API
+### ✨ Key Features
+- 📚 **Curriculum Generation**
+- 🎯 **Personalized Learning Paths**
+- 🗂️ **Topic-wise Roadmaps**
+- 📈 **Skill Tracking**
+- ⚡ **Dynamic Content Rendering**
+
+### 🛠️ Tech Stack
+`MERN Stack` `Groq API`
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="100%">
+
+<div style="padding:20px; border-radius:12px; border:1px solid #30363d;">
+
+## 📄 AI Resume Analyzer
+
+**Smart resume analysis platform for ATS optimization and career improvement.**
+
+### ✨ Key Features
+- 📊 **ATS Score Generation**
+- 🏆 **ATS Ranking**
+- 🔍 **Resume Analysis**
+- 📌 **Skill Gap Detection**
+- 💡 **Resume Improvement Suggestions**
+- 📖 **Personalized Study Plan**
+
+### 🛠️ Tech Stack
+`MERN Stack` `Groq API`
+
+</div>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
